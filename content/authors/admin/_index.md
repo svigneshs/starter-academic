@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vignesh Sivaraman
 
 # Username (this should match the folder name)
 authors:
-- admin
+- vignesh
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: National University of Singapore
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Next Generation Networks
+- Network Security, Privacy and Verification
+- Data Center Network Management
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical and Computer Engineering
+    institution: National University of Singapore
+    year: 2020
+  - course: M.Tech. in Computer Science and Engineering
+    institution: Indian Institute of Technology, Guwahati
+    year: 2016
+  - course: B.Tech.
+    institution: National Institute of Technology, Tiruchirappalli
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

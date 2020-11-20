@@ -1,11 +1,15 @@
 +++
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
+# put the below at the end to get a call out
+#{{% callout note %}}
+#Quickly discover relevant content by [filtering publications](./publication/).
+#{{% /callout %}}
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
@@ -67,6 +71,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+

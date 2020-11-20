@@ -6,15 +6,21 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Vignesh Sivaraman"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://www.comp.nus.edu.sg/~vigneshs/"
+# baseurl = "/home/vignesh/research/starter-academic/public/"
+
+# relativeURLs = true
+# uglyURLs = true
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Vignesh"
+copyright = "&copy; 2020"
+
+#theme = "academic"
 
 ############################
 ## Advanced options below ##
@@ -22,7 +28,7 @@ copyright = "Vignesh"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
-
+# theme = "Academic"
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.

@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Information Centric Networks, Network Security, Privacy and Verificaiton.
 
 interests:
 - Information Centric Networks (ICN)

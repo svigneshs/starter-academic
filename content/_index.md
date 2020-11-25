@@ -12,3 +12,8 @@ header:
   caption: ""
   image: ""
 ---
+## Teaching Assistant
+
+* Programming for Computer Interfaces
+* Computer Networks
+* Network Protocols and Applications

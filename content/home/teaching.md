@@ -5,14 +5,14 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
-title = "Services"
+title = "Teaching"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "services"
+  page_type = "teaching"
   count = 1
   offset = 0
   order = "desc"
@@ -32,10 +32,12 @@ subtitle = ""
  css_class = ""
 +++
 
-## Reviewer
+## Teaching Assistant
 
-* IEEE/ACM Transactions on Networking
-* International Conference on Distributed Computing and Networking
+* Computer Networks
+* Network Protocols and Applications
+* Programming for Computer Interfaces
 
-## Student Volunteer
-* IEEE Global Communications Conference 2017
+[SEE ALL <i class="fas fa-angle-right"></i>](teaching/)
+
+

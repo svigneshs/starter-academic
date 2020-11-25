@@ -68,9 +68,11 @@ user_groups:
 - Visitors
 ---
 I am currently a Postdoctoral Research Fellow in the [Meel Group](https://meelgroup.github.io/) at [National University of Singapore](http://nus.edu.sg/), working with [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/).
-I completed my PhD. under the guidance of [Biplab Sikdar](https://www.ece.nus.edu.sg/stfpage/bsikdar/) from the Department of Electrical and Computer Engineering, National University of Singapore.
+I completed my PhD. from the Department of Electrical and Computer Engineering, National University of Singapore, where I was advised by [Biplab Sikdar](https://www.ece.nus.edu.sg/stfpage/bsikdar/).
 
 Broadly speaking, I am interested in Network Security and Privacy. 
 Presently, I am working on stochastic network design and verifying user privacy using formal methods.
 My doctoral research was on modeling the performance and enhancing the privacy of [ICN](https://en.wikipedia.org/wiki/Information-centric_networking) routers.
-Prior to that, during my Masters, I worked on fault tolerant resource planning for data centers.
+Prior to that, during my Masters, I worked with [T. Venkatesh](https://www.iitg.ac.in/t.venkat/production/index.html) and Rakesh Tripathi on fault tolerant resource planning for data centers.
+
+I have spent a few months visiting [Ben Liang](https://www.comm.utoronto.ca/~liang/) at the[ University of Toronto](https://www.utoronto.ca/).

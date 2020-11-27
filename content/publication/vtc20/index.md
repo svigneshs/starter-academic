@@ -13,6 +13,5 @@ publication_types:
 - '1'
 selected: true
 title: 'Towards Seamless Producer Mobility in Information Centric Vehicular Networks'
-url_pdf: https://www.ece.nus.edu.sg/stfpage/bsikdar/papers/vtc_20.pdf
-
+url_pdf: papers/vtc20.pdf
 ---

@@ -15,4 +15,5 @@ publication_types:
 - '2'
 selected: true
 title: 'Non-cooperative power and latency aware load balancing in distributed data centers'
+url_pdf: papers/jpdc17.pdf
 ---

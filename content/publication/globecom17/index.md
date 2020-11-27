@@ -12,6 +12,6 @@ publication_types:
 - '1'
 selected: true
 title: 'Hop-Count Based Forwarding for Seamless Producer Mobility in NDN'
-url_pdf: http://www.ece.nus.edu.sg/stfpage/bsikdar/papers/globecom1_17.pdf
+url_pdf: papers/globecom17.pdf
 
 ---

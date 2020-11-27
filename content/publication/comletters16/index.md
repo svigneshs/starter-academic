@@ -13,5 +13,5 @@ publication_types:
 - '2'
 selected: true
 title: 'Optimizing green energy, cost, and availability in distributed data centers'
-url_pdf: https://ieeexplore.ieee.org/abstract/document/7752814
+url_pdf: 'papers/comletters16.pdf'
 ---

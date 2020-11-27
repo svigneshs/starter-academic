@@ -13,5 +13,5 @@ publication_types:
 - '1'
 selected: true
 title: 'Minimizing cost of provisioning in fault-tolerant distributed data centers with durability constraints'
-
+url_pdf: papers/icc16.pdf
 ---

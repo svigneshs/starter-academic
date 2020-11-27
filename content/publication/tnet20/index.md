@@ -13,6 +13,5 @@ publication_types:
 - '2'
 selected: true
 title: 'Optimal Pending Interest Table Size for ICN with Mobile Producers '
-url_pdf: https://www.ece.nus.edu.sg/stfpage/bsikdar/papers/ton_20.pdf
-
+url_pdf: papers/tnet20.pdf
 ---

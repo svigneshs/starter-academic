@@ -11,7 +11,7 @@ math: true
 publication: '*IEEE 91st Vehicular Technology Conference (VTC2020-Spring)*'
 publication_types:
 - '1'
-selected: true
+selected: false
 title: 'Towards Seamless Producer Mobility in Information Centric Vehicular Networks'
 url_pdf: papers/vtc20.pdf
 ---

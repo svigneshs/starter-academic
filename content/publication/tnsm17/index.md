@@ -14,6 +14,6 @@ publication_types:
 - '2'
 selected: true
 title: 'Cost Efficient Design of Fault Tolerant Geo-Distributed Data Centers'
-url_pdf: files/papers/tnsm17.pdf
+url_pdf: papers/tnsm17.pdf
 
 ---

@@ -35,6 +35,7 @@ subtitle = ""
 ## Reviewer
 
 * IEEE/ACM Transactions on Networking
+* IEEE Transactions on Vehicular Technology 
 * International Conference on Distributed Computing and Networking
 
 ## Student Volunteer

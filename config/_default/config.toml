@@ -10,7 +10,8 @@ title = "Vignesh Sivaraman"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://www.comp.nus.edu.sg/~vigneshs/"
+baseurl = "https://faculty.iiit.ac.in/~vignesh/"
+#baseurl = "https://www.comp.nus.edu.sg/~vigneshs/"
 # baseurl = "/home/vignesh/research/starter-academic/public/"
 
 # relativeURLs = true

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dibyajyoti Guha | Vignesh Sivaraman</title>
+    <link>https://faculty.iiit.ac.in/~vignesh/author/dibyajyoti-guha/</link>
+      <atom:link href="https://faculty.iiit.ac.in/~vignesh/author/dibyajyoti-guha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dibyajyoti Guha</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://faculty.iiit.ac.in/~vignesh/images/icon_huf76c7d7a180684c31c2ae9ef32f25251_734_512x512_fill_lanczos_center_3.png</url>
+      <title>Dibyajyoti Guha</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/author/dibyajyoti-guha/</link>
+    </image>
+    
+    <item>
+      <title>Towards Seamless Producer Mobility in Information Centric Vehicular Networks</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/vtc20/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/vtc20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

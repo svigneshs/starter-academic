@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Vignesh Sivaraman</title>
+    <link>https://faculty.iiit.ac.in/~vignesh/publication-type/2/</link>
+      <atom:link href="https://faculty.iiit.ac.in/~vignesh/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://faculty.iiit.ac.in/~vignesh/images/icon_huf76c7d7a180684c31c2ae9ef32f25251_734_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>A Defense Mechanism Against Timing Attacks on User Privacy in ICN </title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/tnet20/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/tnet20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Game Theoretic Approach for Enhancing Data Privacy in SDN-based Smart Grids</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/iot-sdn-20/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/iot-sdn-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-cooperative power and latency aware load balancing in distributed data centers</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/jpdc17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/jpdc17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost Efficient Design of Fault Tolerant Geo-Distributed Data Centers</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/tnsm17/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/tnsm17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing green energy, cost, and availability in distributed data centers</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/comletters16/</link>
+      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/comletters16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

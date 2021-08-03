@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Vignesh Sivaraman</title>
+    <link>https://faculty.iiit.ac.in/~vignesh/publication/</link>
+      <atom:link href="https://faculty.iiit.ac.in/~vignesh/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://faculty.iiit.ac.in/~vignesh/images/icon_huf76c7d7a180684c31c2ae9ef32f25251_734_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Defense Mechanism Against Timing Attacks on User Privacy in ICN </title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/tnet20/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/tnet20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Game Theoretic Approach for Enhancing Data Privacy in SDN-based Smart Grids</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/iot-sdn-20/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/iot-sdn-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Seamless Producer Mobility in Information Centric Vehicular Networks</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/vtc20/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/vtc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hop-Count Based Forwarding for Seamless Producer Mobility in NDN</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/globecom17/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/globecom17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-cooperative power and latency aware load balancing in distributed data centers</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/jpdc17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/jpdc17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost Efficient Design of Fault Tolerant Geo-Distributed Data Centers</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/tnsm17/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/tnsm17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing green energy, cost, and availability in distributed data centers</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/comletters16/</link>
+      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/comletters16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing the cost of designing fault-tolerant CDN data centers</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/ants16/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/ants16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing cost of provisioning in fault-tolerant distributed data centers with durability constraints</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/icc16/</link>
+      <pubDate>Sun, 22 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/icc16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-aware capacity provisioning for fault-tolerant geo-distributed data centers</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/publication/comsnets16/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/publication/comsnets16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

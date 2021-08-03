@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Vignesh Sivaraman</title>
+    <link>https://faculty.iiit.ac.in/~vignesh/talk/</link>
+      <atom:link href="https://faculty.iiit.ac.in/~vignesh/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 29 Jun 2020 11:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://faculty.iiit.ac.in/~vignesh/images/icon_huf76c7d7a180684c31c2ae9ef32f25251_734_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/talk/</link>
+    </image>
+    
+    <item>
+      <title>Differential Privacy Against Timing attacks in Information Centric Networks</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/talk/ncrypt20/</link>
+      <pubDate>Mon, 29 Jun 2020 11:30:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/talk/ncrypt20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Seamless Producer Mobility in Information Centric Vehicular Networks</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/talk/vtc20/</link>
+      <pubDate>Tue, 26 May 2020 13:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/talk/vtc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hop-Count Based Forwarding for Seamless Producer Mobility in NDN</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/talk/globecom17/</link>
+      <pubDate>Wed, 06 Dec 2017 17:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/talk/globecom17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-aware capacity provisioning for fault-tolerant geo-distributed data centers</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/talk/example/</link>
+      <pubDate>Wed, 06 Jan 2016 13:00:00 +0000</pubDate>
+      <guid>https://faculty.iiit.ac.in/~vignesh/talk/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

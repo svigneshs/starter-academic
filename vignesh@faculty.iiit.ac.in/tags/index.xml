@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Vignesh Sivaraman</title>
+    <link>https://faculty.iiit.ac.in/~vignesh/tags/</link>
+      <atom:link href="https://faculty.iiit.ac.in/~vignesh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>https://faculty.iiit.ac.in/~vignesh/images/icon_huf76c7d7a180684c31c2ae9ef32f25251_734_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://faculty.iiit.ac.in/~vignesh/tags/</link>
+    </image>
+    
+  </channel>
+</rss>
